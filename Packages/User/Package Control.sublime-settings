@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"Anaconda",
+		"BracketHighlighter",
+		"Colorsublime",
+		"FileDiffs",
+		"GoSublime",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-json",
+		"SublimeLinter-pyyaml",
+		"SublimeREPL",
+		"SyncedSidebarBg",
+		"Theme - Soda SolarizedDark",
+		"Tomorrow Night Italics Color Scheme",
+		"TypeScript"
+	]
+}

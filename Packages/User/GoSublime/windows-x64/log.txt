@@ -1,0 +1,258 @@
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\work\\Go\\pkg\\windows_amd64;C:\\Go\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:/work/Go", GOPATH:"C:/Go", InstallSuffix:""}
+
+** 2018-02-08 17:16:00.330818 **:
+MarGo: MarGo build failed
+cmd: `['C:\\Go\\bin\\go.exe', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r18.01.17-1_go?.exe', 'gosublime/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\broker.go:4:2: cannot find package "bufio" in any of:
+	C:\work\Go\src\bufio (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\bufio (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\bufio
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\broker.go:5:2: cannot find package "bytes" in any of:
+	C:\work\Go\src\bytes (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\bytes (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\bytes
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\common.go:5:2: cannot find package "encoding/base64" in any of:
+	C:\work\Go\src\encoding\base64 (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\encoding\base64 (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\encoding\base64
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\package_bin.go:4:2: cannot find package "encoding/binary" in any of:
+	C:\work\Go\src\encoding\binary (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\encoding\binary (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\encoding\binary
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\broker.go:6:2: cannot find package "encoding/json" in any of:
+	C:\work\Go\src\encoding\json (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\encoding\json (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\encoding\json
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\package_text.go:5:2: cannot find package "errors" in any of:
+	C:\work\Go\src\errors (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\errors (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\errors
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\main.go:7:2: cannot find package "flag" in any of:
+	C:\work\Go\src\flag (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\flag (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\flag
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\common.go:7:2: cannot find package "fmt" in any of:
+	C:\work\Go\src\fmt (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\fmt (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\fmt
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\common.go:8:2: cannot find package "go/ast" in any of:
+	C:\work\Go\src\go\ast (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\go\ast (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\go\ast
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\m_import_paths.go:5:2: cannot find package "go/build" in any of:
+	C:\work\Go\src\go\build (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\go\build (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\go\build
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\common.go:9:2: cannot find package "go/parser" in any of:
+	C:\work\Go\src\go\parser (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\go\parser (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\go\parser
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\common.go:10:2: cannot find package "go/printer" in any of:
+	C:\work\Go\src\go\printer (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\go\printer (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\go\printer
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\m_lint.go:6:2: cannot find package "go/scanner" in any of:
+	C:\work\Go\src\go\scanner (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\go\scanner (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\go\scanner
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\common.go:11:2: cannot find package "go/token" in any of:
+	C:\work\Go\src\go\token (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\go\token (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\go\token
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\config.go:7:2: cannot find package "io" in any of:
+	C:\work\Go\src\io (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\io (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\io
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\client.go:7:2: cannot find package "io/ioutil" in any of:
+	C:\work\Go\src\io\ioutil (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\io\ioutil (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\io\ioutil
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\autocompletecontext.go:9:2: cannot find package "log" in any of:
+	C:\work\Go\src\log (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\log (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\log
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\types\const.go:12:2: cannot find package "math/big" in any of:
+	C:\work\Go\src\math\big (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\math\big (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\math\big
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\server.go:8:2: cannot find package "net" in any of:
+	C:\work\Go\src\net (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\net (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\net
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\gocode.go:7:2: cannot find package "net/http" in any of:
+	C:\work\Go\src\net\http (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\net\http (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\net\http
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\gocode.go:8:2: cannot find package "net/http/pprof" in any of:
+	C:\work\Go\src\net\http\pprof (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\net\http\pprof (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\net\http\pprof
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\client.go:8:2: cannot find package "net/rpc" in any of:
+	C:\work\Go\src\net\rpc (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\net\rpc (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\net\rpc
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\m_pkgdoc.go:8:2: cannot find package "net/url" in any of:
+	C:\work\Go\src\net\url (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\net\url (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\net\url
+..\..\..\..\GoSublime\src\gosublime\margo\meth\importpaths\importpaths.go:9:2: cannot find package "os" in any of:
+	C:\work\Go\src\os (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\os (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\os
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\declcache.go:11:2: cannot find package "os/exec" in any of:
+	C:\work\Go\src\os\exec (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\os\exec (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\os\exec
+..\..\..\..\GoSublime\src\gosublime\cmd\margo_pkg\m_doc.go:7:2: cannot find package "path" in any of:
+	C:\work\Go\src\path (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\path (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\path
+..\..\..\..\GoSublime\src\gosublime\margo\filter.go:4:2: cannot find package "path/filepath" in any of:
+	C:\work\Go\src\path\filepath (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\path\filepath (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\path\filepath
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\config.go:10:2: cannot find package "reflect" in any of:
+	C:\work\Go\src\reflect (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\reflect (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\reflect
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\config.go:11:2: cannot find package "regexp" in any of:
+	C:\work\Go\src\regexp (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\regexp (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\regexp
+package gosublime/cmd/margo
+	imports runtime: cannot find package "runtime" in any of:
+	C:\work\Go\src\runtime (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\runtime (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\runtime
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\autocompletecontext.go:13:2: cannot find package "sort" in any of:
+	C:\work\Go\src\sort (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\sort (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\sort
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\client.go:11:2: cannot find package "strconv" in any of:
+	C:\work\Go\src\strconv (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\strconv (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\strconv
+..\..\..\..\GoSublime\src\gosublime\margo\meth\importpaths\importpaths.go:11:2: cannot find package "strings" in any of:
+	C:\work\Go\src\strings (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\strings (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\strings
+..\..\..\..\GoSublime\src\gosublime\margo\opts.go:5:2: cannot find package "sync" in any of:
+	C:\work\Go\src\sync (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\sync (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\sync
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\os_windows.go:7:2: cannot find package "syscall" in any of:
+	C:\work\Go\src\syscall (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\syscall (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\syscall
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\package_text.go:10:2: cannot find package "text/scanner" in any of:
+	C:\work\Go\src\text\scanner (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\text\scanner (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\text\scanner
+..\..\..\..\GoSublime\src\gosublime\margo\meth\importpaths\importpaths.go:13:2: cannot find package "time" in any of:
+	C:\work\Go\src\time (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\time (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\time
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\package_bin.go:10:2: cannot find package "unicode" in any of:
+	C:\work\Go\src\unicode (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\unicode (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\unicode
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\package_bin.go:11:2: cannot find package "unicode/utf8" in any of:
+	C:\work\Go\src\unicode\utf8 (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\unicode\utf8 (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\unicode\utf8
+..\..\..\..\GoSublime\src\gosublime\something-borrowed\gocode\os_windows.go:8:2: cannot find package "unsafe" in any of:
+	C:\work\Go\src\unsafe (from $GOROOT)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\src\unsafe (from $GOPATH)
+	C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\GoSublime\src\unsafe
+`
+exception: `None`
+--------------------------------
+
+** 2018-02-09 15:40:16.101503 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:40:16.289096 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:44:55.213386 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:44:57.197412 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:44:57.810362 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:01.055146 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:01.352834 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:01.446182 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:01.524739 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:01.636287 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:06.495861 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:06.652109 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:06.792294 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:07.531950 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:08.137476 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:08.935519 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:16.887963 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:17.169437 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:45:18.296628 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:46:17.168568 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------
+
+** 2018-02-09 15:46:26.515916 **:
+GsComplete: Abort. Cannot start MarGo: Exception: Cannot find command `C:\Users\bosjiang\AppData\Roaming\Sublime Text 3\Packages\User\GoSublime\windows-x64\bin\gosublime.margo_r18.01.17-1_go?.exe`
+--------------------------------

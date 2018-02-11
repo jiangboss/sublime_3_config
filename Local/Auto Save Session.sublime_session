@@ -1,0 +1,3708 @@
+{
+	"folder_history":
+	[
+		"/C/work/Go",
+		"/C/work/labcloud",
+		"/C/work/ng2-admin/src/app",
+		"/C/work/labcloud/auto-home",
+		"/C/work/cfow_dump",
+		"/C/work/auto_home/auto_home_microservice/auto-home-microservice",
+		"/C/work/auto_home/auto-home",
+		"/C/work/open_rpd/OpenRPD"
+	],
+	"last_version": 3143,
+	"last_window_id": 37,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1104.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"top",
+						"top_list\tstatement"
+					],
+					[
+						"e",
+						"except"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"F",
+						"FAILED"
+					],
+					[
+						"ex",
+						"execution_status\tstatement"
+					],
+					[
+						"y",
+						"yaml_file\tstatement"
+					],
+					[
+						"con",
+						"consrv"
+					],
+					[
+						"ya",
+						"yaml_obj\tstatement"
+					],
+					[
+						"del",
+						"delattr\tfunction"
+					],
+					[
+						"yaml",
+						"yaml_obj"
+					],
+					[
+						"__",
+						"__dict__"
+					],
+					[
+						"uuid",
+						"uuid_split"
+					],
+					[
+						"cbr_",
+						"cbr_name\tstatement"
+					],
+					[
+						"to",
+						"topofile_gen\tfunction"
+					],
+					[
+						"split",
+						"split_uuid"
+					],
+					[
+						"RP",
+						"RPD_P1"
+					],
+					[
+						"RPD_",
+						"RPD_P2"
+					],
+					[
+						"topo",
+						"topofile"
+					],
+					[
+						"image",
+						"image_str"
+					],
+					[
+						"lab",
+						"lab_dev_ctrlr\tfunction"
+					],
+					[
+						"UPDATE_",
+						"UPDATED_DATA"
+					],
+					[
+						"msg",
+						"msg_dict"
+					],
+					[
+						"service",
+						"service_uuid"
+					],
+					[
+						"ms",
+						"msg_dict"
+					],
+					[
+						"true",
+						"True\tkeyword"
+					],
+					[
+						"admin",
+						"administrator\t(login.component.ts)"
+					],
+					[
+						"admi",
+						"administrator"
+					],
+					[
+						"data",
+						"data_to_front"
+					],
+					[
+						"request",
+						"request.data"
+					],
+					[
+						"j",
+						"json"
+					],
+					[
+						"cbr",
+						"cbr_type\t(smartTables.component.ts)"
+					],
+					[
+						"find_by_",
+						"find_by_id"
+					],
+					[
+						"kafk",
+						"kafka_producer"
+					],
+					[
+						"ob",
+						"object\tclass"
+					],
+					[
+						"cbr_i",
+						"cbr_image_customize\tproperty"
+					],
+					[
+						"default",
+						"default_rpd_lables_select\tproperty"
+					],
+					[
+						"rpd_lab",
+						"rpd_lables_select\tproperty"
+					],
+					[
+						"cbr_lab",
+						"cbr_lables_select\tproperty"
+					],
+					[
+						"class",
+						"classmethod\tclass"
+					],
+					[
+						"clou",
+						"cloudadmin.service\t(cloudadmin.component.ts)"
+					],
+					[
+						"CloudAdmin",
+						"CloudAdminService\t(cloudadmin.component.ts)"
+					],
+					[
+						"locale",
+						"localStorage\t(login.component.ts)"
+					],
+					[
+						"com",
+						"custom-editor.component\tscript"
+					],
+					[
+						"tgn_",
+						"tgn_port_type"
+					],
+					[
+						"tgn",
+						"tgn_type\tproperty"
+					],
+					[
+						"start",
+						"start_time\tproperty"
+					],
+					[
+						"user",
+						"user_info\t(__init__.py)"
+					],
+					[
+						"u",
+						"user_auth\t(main.py)"
+					],
+					[
+						"edit",
+						"editor\t(smartTables.component.ts)"
+					],
+					[
+						"chart",
+						"chart.description_1"
+					],
+					[
+						"modem_",
+						"modem_total"
+					],
+					[
+						"rpd_",
+						"rpd_total"
+					],
+					[
+						"cbr_3_",
+						"cbr_3_total"
+					],
+					[
+						"row",
+						"rowData"
+					],
+					[
+						"tb",
+						"tb_release\t(api.py)"
+					],
+					[
+						"Flas",
+						"False"
+					],
+					[
+						"get",
+						"getDatafromServer\tmethod"
+					],
+					[
+						"end",
+						"endTime\t(smartTables.component.ts)"
+					],
+					[
+						"bo",
+						"boolean\t(app.component.ts)"
+					],
+					[
+						"Re",
+						"Reserve\t(inputs.html)"
+					],
+					[
+						"resource",
+						"resource_table"
+					],
+					[
+						"cBr_",
+						"cbr_template_1\t(inputs.component.ts)"
+					],
+					[
+						"resource_table",
+						"resource_table_readable"
+					],
+					[
+						"start_time",
+						"start_time_show\tproperty"
+					],
+					[
+						"d",
+						"default_time_load\tmethod"
+					],
+					[
+						"end_time",
+						"end_time_selective"
+					],
+					[
+						"end_hour",
+						"end_hour_selective\tproperty"
+					],
+					[
+						"get_",
+						"get_date_time_relate_conf"
+					],
+					[
+						"date_time_",
+						"date_time_now"
+					],
+					[
+						"date",
+						"date_time_display"
+					],
+					[
+						"getD",
+						"getDay\tmethod"
+					],
+					[
+						"end_h",
+						"end_hour_selective\tproperty"
+					],
+					[
+						"start_hour",
+						"start_hour_selective\tproperty"
+					],
+					[
+						"end_time_to",
+						"end_time_to_display\tproperty"
+					],
+					[
+						"getm",
+						"getMonth\tmethod"
+					],
+					[
+						"my",
+						"myhour"
+					],
+					[
+						"rpd",
+						"rpd_num\tproperty"
+					],
+					[
+						"submit",
+						"submit_request"
+					],
+					[
+						"im",
+						"images\t(api.py)"
+					],
+					[
+						"form",
+						"form-group\t(standardInputs.html)"
+					],
+					[
+						"se",
+						"selectedSupCard\tproperty"
+					],
+					[
+						"Tb",
+						"TbEstablishComponent\t(tb.module.ts)"
+					],
+					[
+						"tb_",
+						"tb_establish\t(api.py)"
+					],
+					[
+						"script",
+						"scriptselect\t(submit.routing.ts)"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"sele",
+						"ts_select\tproperty"
+					],
+					[
+						"ts",
+						"ts_name"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"not",
+						"not_in_db"
+					],
+					[
+						"key",
+						"keys"
+					],
+					[
+						"fucn",
+						"func_list"
+					],
+					[
+						"func_",
+						"func_list"
+					],
+					[
+						"function",
+						"function_list"
+					],
+					[
+						"tc_ma",
+						"tc_map_origin\tproperty"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"has",
+						"hasOwnProperty"
+					],
+					[
+						"fucntion",
+						"function_list"
+					],
+					[
+						"run",
+						"runtime"
+					],
+					[
+						"task",
+						"taskid"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/GoSublime/GoSublime.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Go.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Go.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 267.0,
+				"last_filter": "install pa",
+				"selected_items":
+				[
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"PackageR",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"package Control:",
+						"Package Control: Remove Package"
+					],
+					[
+						" install th",
+						"Colorsublime: Install Theme"
+					],
+					[
+						" install package",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Add Channel"
+					]
+				],
+				"width": 952.0
+			},
+			"console":
+			{
+				"height": 327.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/work/labcloud/add-on/cassandra_modoles.py",
+				"/C/work/labcloud/add-on/rank_system.py",
+				"/C/work/labcloud/lab-device-controller/lab_device_ctrlr.py",
+				"/C/work/AI/kafka_log.py",
+				"/C/work/test/test.py",
+				"/C/work/useful_script/initojson.py",
+				"/C/work/ATP/RPHY-ATP/ATPCases.py",
+				"/C/work/labcloud/add-on/rank_service.py",
+				"/C/work/AI/producer.py",
+				"/C/work/labcloud/api-gateway/app/main.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/login/login.component.ts",
+				"/C/work/labcloud/user-management/user_auth.py",
+				"/C/work/labcloud/user-management/user_service.py",
+				"/C/work/labcloud/api-gateway/app/comments.py",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/GoSublime/9o.md",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/User/Go.sublime-build",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/C/work/Go/test.go",
+				"/C/work/labcloud/api-gateway/app/yaml_file/cbr_rank.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/mainService.ts",
+				"/C/work/labcloud/add-on/config.yml",
+				"/C/work/labcloud/api-gateway/app/yaml_file/user_rank.yml",
+				"/C/work/labcloud/add-on/README.md",
+				"/C/work/labcloud/add-on/Dockerfile",
+				"/C/work/labcloud/service_manager/webui_service.py",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_main.py",
+				"/C/work/labcloud/service_manager/serv_mgr_lib/serv_mgr_handler.py",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_query.py",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_models.py",
+				"/C/work/labcloud/user-management/config.yml",
+				"/C/work/labcloud/user-management/README.md",
+				"/C/work/labcloud/add-on/run.sh",
+				"/C/work/labcloud/add-on/.gitignore",
+				"/C/work/labcloud/web/Web-UI/src/app/global.var.ts",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_service.py",
+				"/C/work/labcloud/api-gateway/README.md",
+				"/C/work/labcloud/api-gateway/.gitignore",
+				"/C/work/labcloud/user-management/run.sh",
+				"/C/work/labcloud/lab-device-controller/yaml_file/template.yaml",
+				"/C/work/test/ymal-generate.py",
+				"/C/work/labcloud/gateway/gateway/app/main.py",
+				"/C/work/labcloud/lab-device-controller/.gitignore",
+				"/C/work/labcloud/lab-device-controller/README.md",
+				"/C/work/labcloud/lab-device-controller/dev_ctrlr_producer.py",
+				"/C/work/labcloud/lab-device-controller/Dockerfile",
+				"/C/work/labcloud/lab-device-controller/tb_clean_script/testbed_clean_p1.py",
+				"/C/Users/bosjiang/AppData/Local/Temp/scp09683/root/lab-device-controller/Dockerfile",
+				"/C/work/labcloud/web/Web-UI/Dockerfile",
+				"/C/work/labcloud/user-management/Dockerfile",
+				"/C/work/labcloud/lab-device-controller/logging_config.ini",
+				"/C/work/labcloud/lab-device-controller/common_operation.py",
+				"/C/work/labcloud/lab-device-controller/yaml_generate.py",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/user_auth.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/request-modal/request-modal.component.html",
+				"/C/work/labcloud/gateway/gateway/app/comments.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/pieChart/pieChart.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/request-modal/request-modal.component.ts",
+				"/C/work/labcloud/lab-device-controller/cbr_rpd_image_upgrade.py",
+				"/C/work/labcloud/user-auth/run.sh",
+				"/C/work/labcloud/user-auth/user_auth.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/pages.menu.ts",
+				"/C/work/labcloud/user-auth/user_service.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/login/login.module.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/global.state.ts",
+				"/C/work/labcloud/gateway/gateway/app/user_auth.py",
+				"/C/work/labcloud/user-auth/.gitignore",
+				"/C/work/labcloud/user-auth/config.yml",
+				"/C/work/labcloud/user-auth/user_auth_service.py",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/tb_release.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/cloud_admin.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/submit_comments.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/kafka_log.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/order_status_query.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/image_query.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/resource_query.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/submit_request.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/image_upgrade.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/update_request.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/pieChart/pieChart.service.ts",
+				"/C/work/labcloud/gateway/gateway/app/submit_request.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/reservedTable/smartTables.service.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/reservedTable/smartTables.component.ts",
+				"/C/work/labcloud/gateway/gateway/Dockerfile",
+				"/C/work/labcloud/bug_system/gitlab_api.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/dashboard.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/update-modal/update-modal.component.ts",
+				"/C/work/ng2-admin/src/app/pages/forms/components/inputs/inputs.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/pieChart/pieChart.html",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/components/inputs/inputs.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/components/inputs/inputs.html",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/dashboard.html",
+				"/C/work/test/ticket.py",
+				"/C/work/labcloud/lab_cloud_admin/labCloudAdminAction.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/dashboard.module.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/errorpage/errorpage.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/forms.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/forms.module.ts",
+				"/C/work/labcloud/lab_cloud_admin/labServMgrQuery.py",
+				"/C/work/labcloud/lab_cloud_admin/labCloudAdminMain.py",
+				"/C/work/labcloud/lab_cloud_admin/labServMgrModels.py",
+				"/C/work/labcloud/lab_cloud_admin/labCloudAdminService.py",
+				"/C/work/labcloud/gateway/gateway/app/uwsgi.ini",
+				"/C/work/labcloud/lab_cloud_admin/lab_cloud_admin_service.sh",
+				"/C/Users/bosjiang/Documents/MyJabberFiles/zhiren@cisco.com/copy_creg_green_label_120.py",
+				"/C/work/Quality Index Web/Official/old/jsonUpdate.py",
+				"/C/work/CREG/testbed_clean_new_jbs.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.service.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.component.ts",
+				"/C/work/CREG/testbed_clean_new_steve.py",
+				"/C/Users/bosjiang/Documents/MyJabberFiles/xiangpxu@cisco.com/comments.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/elasticsearch_reindex.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/ScriptPoolService.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/scriptPool.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/ScriptSelect.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/testcase.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.html",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.scss",
+				"/C/work/labcloud/lab-resource-manager/service/dev_free_info.py",
+				"/C/work/labcloud/lab-resource-manager/service/dev_free_info_api.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/TestcaseDbService.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/worker/JobRunService.py",
+				"/C/work/labcloud/service/master/demoService.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.routing.ts",
+				"/C/work/labcloud/service/master/config.yml",
+				"/C/work/AI/input_analyze.py",
+				"/C/work/AI/data_helpers.py",
+				"/C/work/AI/consumer.py"
+			],
+			"find":
+			{
+				"height": 91.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"re.",
+					"data_path",
+					"re",
+					"self.top_list",
+					"KAFKA_SERVER",
+					"response",
+					"respones",
+					"user_dict",
+					"Can't record data in DB",
+					"service_analyze",
+					"CASSANDRA",
+					"respones",
+					"logger",
+					"logging",
+					"LAB_CLOUD_CTRL",
+					"yaml_file",
+					"YAML_TMPL",
+					"cbr_value",
+					"self.content",
+					"TopoGenerater",
+					"topo_dict",
+					"temp_dict",
+					"tem_dict",
+					"split_uu",
+					"topo_content_generater",
+					"split_uuid",
+					"job_content_generate",
+					"execution_state",
+					"device_init",
+					"request.json",
+					"JOBFILE_MAIN",
+					"vty",
+					"JOBFIEL_HEADER",
+					"JOBFILE_HEADER",
+					"uuid_split",
+					"JOBFILE_MAIN_P2",
+					"responesrespon",
+					"resource_table",
+					"resourcecheck",
+					":\n",
+					"“data”",
+					"resource_table",
+					"resourcecheck",
+					"lab_cloud_admin_main",
+					"all_service",
+					"query",
+					"query_filter",
+					"LabCloudQuery",
+					"onCbrImageCustomize",
+					"cbr_lable",
+					"oncBRImageCusomize",
+					"image",
+					"default_image_description",
+					"branches",
+					"Script",
+					"getTopology",
+					"rpd",
+					"waiting",
+					"can't get kernel image!",
+					"starting kernel failed log",
+					" starting kernel failed log",
+					"Wrong Image",
+					"Wrong Image Format for bootm command",
+					"It is two-SUP testbed",
+					"testbed_loader",
+					"cmts",
+					"It is two-SUP testbed",
+					"have_SUP1",
+					"is_two_SUP",
+					"reboot_clisend_ok_flag",
+					"Not in Rommon",
+					"Not in Rommon, so send reboot CLI commands in aux",
+					"The system did not response correctly within",
+					"The system did not response correctly within 15 second",
+					"vnc_get",
+					"lgModalShow",
+					"onResourceCheck",
+					"ba-card",
+					"api_service",
+					"authenticate_direct_bind",
+					"LDAP_USER_LOGIN_ATTR",
+					"full_user_search_dn",
+					"authenticate_direct_bind",
+					"LDAP_ALWAYS_SEARCH_BIND",
+					"LDAP_BIND_DIRECT_CREDENTIALS",
+					"user",
+					"this.start_time",
+					"ldap",
+					"_config",
+					"scalar",
+					"LDAPLoginForm",
+					"disableHostCheck",
+					"Basic Ex",
+					"toLocaleString",
+					"onOrderStatusquerry",
+					"DefaultModal",
+					"_selectItem",
+					"selected",
+					"request",
+					"cbr_2",
+					"resource_table",
+					"onResourceQuerry",
+					"onTimeUpdate",
+					"end_date",
+					"Start",
+					"start_date",
+					"cflow",
+					"globalVars",
+					"ng2-admin",
+					"New Visits",
+					"TcSea",
+					"TcSear",
+					"this.qddts",
+					"ts_select",
+					"this.data",
+					"print",
+					"A tool to analyze regression scripts",
+					"A tool to analyze regression scripts.",
+					"re_file",
+					"qddts",
+					"this.qddts",
+					"db_st",
+					"tc_map",
+					"cflow",
+					"qddts_analyze",
+					"data_list",
+					"ScriptEngine",
+					"org_file_list"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 66.0
+			},
+			"input":
+			{
+				"height": 90.0
+			},
+			"menu_visible": true,
+			"output.9o://C:\\work\\Go":
+			{
+				"height": 724.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 306.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 460.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 124.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 484.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1862.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"top",
+						"top_list\tstatement"
+					],
+					[
+						"e",
+						"except"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"F",
+						"FAILED"
+					],
+					[
+						"ex",
+						"execution_status\tstatement"
+					],
+					[
+						"y",
+						"yaml_file\tstatement"
+					],
+					[
+						"con",
+						"consrv"
+					],
+					[
+						"ya",
+						"yaml_obj\tstatement"
+					],
+					[
+						"del",
+						"delattr\tfunction"
+					],
+					[
+						"yaml",
+						"yaml_obj"
+					],
+					[
+						"__",
+						"__dict__"
+					],
+					[
+						"uuid",
+						"uuid_split"
+					],
+					[
+						"cbr_",
+						"cbr_name\tstatement"
+					],
+					[
+						"to",
+						"topofile_gen\tfunction"
+					],
+					[
+						"split",
+						"split_uuid"
+					],
+					[
+						"RP",
+						"RPD_P1"
+					],
+					[
+						"RPD_",
+						"RPD_P2"
+					],
+					[
+						"topo",
+						"topofile"
+					],
+					[
+						"image",
+						"image_str"
+					],
+					[
+						"lab",
+						"lab_dev_ctrlr\tfunction"
+					],
+					[
+						"UPDATE_",
+						"UPDATED_DATA"
+					],
+					[
+						"msg",
+						"msg_dict"
+					],
+					[
+						"service",
+						"service_uuid"
+					],
+					[
+						"ms",
+						"msg_dict"
+					],
+					[
+						"true",
+						"True\tkeyword"
+					],
+					[
+						"admin",
+						"administrator\t(login.component.ts)"
+					],
+					[
+						"admi",
+						"administrator"
+					],
+					[
+						"data",
+						"data_to_front"
+					],
+					[
+						"request",
+						"request.data"
+					],
+					[
+						"j",
+						"json"
+					],
+					[
+						"cbr",
+						"cbr_type\t(smartTables.component.ts)"
+					],
+					[
+						"find_by_",
+						"find_by_id"
+					],
+					[
+						"kafk",
+						"kafka_producer"
+					],
+					[
+						"ob",
+						"object\tclass"
+					],
+					[
+						"cbr_i",
+						"cbr_image_customize\tproperty"
+					],
+					[
+						"default",
+						"default_rpd_lables_select\tproperty"
+					],
+					[
+						"rpd_lab",
+						"rpd_lables_select\tproperty"
+					],
+					[
+						"cbr_lab",
+						"cbr_lables_select\tproperty"
+					],
+					[
+						"class",
+						"classmethod\tclass"
+					],
+					[
+						"clou",
+						"cloudadmin.service\t(cloudadmin.component.ts)"
+					],
+					[
+						"CloudAdmin",
+						"CloudAdminService\t(cloudadmin.component.ts)"
+					],
+					[
+						"locale",
+						"localStorage\t(login.component.ts)"
+					],
+					[
+						"com",
+						"custom-editor.component\tscript"
+					],
+					[
+						"tgn_",
+						"tgn_port_type"
+					],
+					[
+						"tgn",
+						"tgn_type\tproperty"
+					],
+					[
+						"start",
+						"start_time\tproperty"
+					],
+					[
+						"user",
+						"user_info\t(__init__.py)"
+					],
+					[
+						"u",
+						"user_auth\t(main.py)"
+					],
+					[
+						"edit",
+						"editor\t(smartTables.component.ts)"
+					],
+					[
+						"chart",
+						"chart.description_1"
+					],
+					[
+						"modem_",
+						"modem_total"
+					],
+					[
+						"rpd_",
+						"rpd_total"
+					],
+					[
+						"cbr_3_",
+						"cbr_3_total"
+					],
+					[
+						"row",
+						"rowData"
+					],
+					[
+						"tb",
+						"tb_release\t(api.py)"
+					],
+					[
+						"Flas",
+						"False"
+					],
+					[
+						"get",
+						"getDatafromServer\tmethod"
+					],
+					[
+						"end",
+						"endTime\t(smartTables.component.ts)"
+					],
+					[
+						"bo",
+						"boolean\t(app.component.ts)"
+					],
+					[
+						"Re",
+						"Reserve\t(inputs.html)"
+					],
+					[
+						"resource",
+						"resource_table"
+					],
+					[
+						"cBr_",
+						"cbr_template_1\t(inputs.component.ts)"
+					],
+					[
+						"resource_table",
+						"resource_table_readable"
+					],
+					[
+						"start_time",
+						"start_time_show\tproperty"
+					],
+					[
+						"d",
+						"default_time_load\tmethod"
+					],
+					[
+						"end_time",
+						"end_time_selective"
+					],
+					[
+						"end_hour",
+						"end_hour_selective\tproperty"
+					],
+					[
+						"get_",
+						"get_date_time_relate_conf"
+					],
+					[
+						"date_time_",
+						"date_time_now"
+					],
+					[
+						"date",
+						"date_time_display"
+					],
+					[
+						"getD",
+						"getDay\tmethod"
+					],
+					[
+						"end_h",
+						"end_hour_selective\tproperty"
+					],
+					[
+						"start_hour",
+						"start_hour_selective\tproperty"
+					],
+					[
+						"end_time_to",
+						"end_time_to_display\tproperty"
+					],
+					[
+						"getm",
+						"getMonth\tmethod"
+					],
+					[
+						"my",
+						"myhour"
+					],
+					[
+						"rpd",
+						"rpd_num\tproperty"
+					],
+					[
+						"submit",
+						"submit_request"
+					],
+					[
+						"im",
+						"images\t(api.py)"
+					],
+					[
+						"form",
+						"form-group\t(standardInputs.html)"
+					],
+					[
+						"se",
+						"selectedSupCard\tproperty"
+					],
+					[
+						"Tb",
+						"TbEstablishComponent\t(tb.module.ts)"
+					],
+					[
+						"tb_",
+						"tb_establish\t(api.py)"
+					],
+					[
+						"script",
+						"scriptselect\t(submit.routing.ts)"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"sele",
+						"ts_select\tproperty"
+					],
+					[
+						"ts",
+						"ts_name"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"not",
+						"not_in_db"
+					],
+					[
+						"key",
+						"keys"
+					],
+					[
+						"fucn",
+						"func_list"
+					],
+					[
+						"func_",
+						"func_list"
+					],
+					[
+						"function",
+						"function_list"
+					],
+					[
+						"tc_ma",
+						"tc_map_origin\tproperty"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"has",
+						"hasOwnProperty"
+					],
+					[
+						"fucntion",
+						"function_list"
+					],
+					[
+						"run",
+						"runtime"
+					],
+					[
+						"task",
+						"taskid"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/work/Go/test.go",
+					"settings":
+					{
+						"buffer_size": 123,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Personal_project/toolkit-python/cassandra_ralted.py",
+					"settings":
+					{
+						"buffer_size": 2988,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Personal_project/toolkit-python/kafka_related.py",
+					"settings":
+					{
+						"buffer_size": 1495,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/GoSublime/GoSublime.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Go.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Go.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 267.0,
+				"last_filter": "install pa",
+				"selected_items":
+				[
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"PackageR",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"package Control:",
+						"Package Control: Remove Package"
+					],
+					[
+						" install th",
+						"Colorsublime: Install Theme"
+					],
+					[
+						" install package",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Add Channel"
+					]
+				],
+				"width": 952.0
+			},
+			"console":
+			{
+				"height": 327.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/work/labcloud/auto-home",
+				"/C/work/labcloud",
+				"/C/work/labcloud/add-on",
+				"/C/work/labcloud/api-gateway",
+				"/C/work/labcloud/api-gateway/app",
+				"/C/work/labcloud/lab-device-controller",
+				"/C/work/labcloud/user-management",
+				"/C/work/Go"
+			],
+			"file_history":
+			[
+				"/C/work/labcloud/add-on/cassandra_modoles.py",
+				"/C/work/labcloud/add-on/rank_system.py",
+				"/C/work/labcloud/lab-device-controller/lab_device_ctrlr.py",
+				"/C/work/AI/kafka_log.py",
+				"/C/work/test/test.py",
+				"/C/work/useful_script/initojson.py",
+				"/C/work/ATP/RPHY-ATP/ATPCases.py",
+				"/C/work/labcloud/add-on/rank_service.py",
+				"/C/work/AI/producer.py",
+				"/C/work/labcloud/api-gateway/app/main.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/login/login.component.ts",
+				"/C/work/labcloud/user-management/user_auth.py",
+				"/C/work/labcloud/user-management/user_service.py",
+				"/C/work/labcloud/api-gateway/app/comments.py",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/GoSublime/9o.md",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/User/Go.sublime-build",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/C/work/Go/test.go",
+				"/C/work/labcloud/api-gateway/app/yaml_file/cbr_rank.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/mainService.ts",
+				"/C/work/labcloud/add-on/config.yml",
+				"/C/work/labcloud/api-gateway/app/yaml_file/user_rank.yml",
+				"/C/work/labcloud/add-on/README.md",
+				"/C/work/labcloud/add-on/Dockerfile",
+				"/C/work/labcloud/service_manager/webui_service.py",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_main.py",
+				"/C/work/labcloud/service_manager/serv_mgr_lib/serv_mgr_handler.py",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_query.py",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_models.py",
+				"/C/work/labcloud/user-management/config.yml",
+				"/C/work/labcloud/user-management/README.md",
+				"/C/work/labcloud/add-on/run.sh",
+				"/C/work/labcloud/add-on/.gitignore",
+				"/C/work/labcloud/web/Web-UI/src/app/global.var.ts",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_service.py",
+				"/C/work/labcloud/api-gateway/README.md",
+				"/C/work/labcloud/api-gateway/.gitignore",
+				"/C/work/labcloud/user-management/run.sh",
+				"/C/work/labcloud/lab-device-controller/yaml_file/template.yaml",
+				"/C/work/test/ymal-generate.py",
+				"/C/work/labcloud/gateway/gateway/app/main.py",
+				"/C/work/labcloud/lab-device-controller/.gitignore",
+				"/C/work/labcloud/lab-device-controller/README.md",
+				"/C/work/labcloud/lab-device-controller/dev_ctrlr_producer.py",
+				"/C/work/labcloud/lab-device-controller/Dockerfile",
+				"/C/work/labcloud/lab-device-controller/tb_clean_script/testbed_clean_p1.py",
+				"/C/Users/bosjiang/AppData/Local/Temp/scp09683/root/lab-device-controller/Dockerfile",
+				"/C/work/labcloud/web/Web-UI/Dockerfile",
+				"/C/work/labcloud/user-management/Dockerfile",
+				"/C/work/labcloud/lab-device-controller/logging_config.ini",
+				"/C/work/labcloud/lab-device-controller/common_operation.py",
+				"/C/work/labcloud/lab-device-controller/yaml_generate.py",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/user_auth.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/request-modal/request-modal.component.html",
+				"/C/work/labcloud/gateway/gateway/app/comments.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/pieChart/pieChart.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/request-modal/request-modal.component.ts",
+				"/C/work/labcloud/lab-device-controller/cbr_rpd_image_upgrade.py",
+				"/C/work/labcloud/user-auth/run.sh",
+				"/C/work/labcloud/user-auth/user_auth.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/pages.menu.ts",
+				"/C/work/labcloud/user-auth/user_service.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/login/login.module.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/global.state.ts",
+				"/C/work/labcloud/gateway/gateway/app/user_auth.py",
+				"/C/work/labcloud/user-auth/.gitignore",
+				"/C/work/labcloud/user-auth/config.yml",
+				"/C/work/labcloud/user-auth/user_auth_service.py",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/tb_release.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/cloud_admin.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/submit_comments.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/kafka_log.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/order_status_query.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/image_query.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/resource_query.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/submit_request.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/image_upgrade.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/update_request.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/pieChart/pieChart.service.ts",
+				"/C/work/labcloud/gateway/gateway/app/submit_request.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/reservedTable/smartTables.service.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/reservedTable/smartTables.component.ts",
+				"/C/work/labcloud/gateway/gateway/Dockerfile",
+				"/C/work/labcloud/bug_system/gitlab_api.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/dashboard.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/update-modal/update-modal.component.ts",
+				"/C/work/ng2-admin/src/app/pages/forms/components/inputs/inputs.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/pieChart/pieChart.html",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/components/inputs/inputs.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/components/inputs/inputs.html",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/dashboard.html",
+				"/C/work/test/ticket.py",
+				"/C/work/labcloud/lab_cloud_admin/labCloudAdminAction.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/dashboard.module.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/errorpage/errorpage.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/forms.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/forms.module.ts",
+				"/C/work/labcloud/lab_cloud_admin/labServMgrQuery.py",
+				"/C/work/labcloud/lab_cloud_admin/labCloudAdminMain.py",
+				"/C/work/labcloud/lab_cloud_admin/labServMgrModels.py",
+				"/C/work/labcloud/lab_cloud_admin/labCloudAdminService.py",
+				"/C/work/labcloud/gateway/gateway/app/uwsgi.ini",
+				"/C/work/labcloud/lab_cloud_admin/lab_cloud_admin_service.sh",
+				"/C/Users/bosjiang/Documents/MyJabberFiles/zhiren@cisco.com/copy_creg_green_label_120.py",
+				"/C/work/Quality Index Web/Official/old/jsonUpdate.py",
+				"/C/work/CREG/testbed_clean_new_jbs.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.service.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.component.ts",
+				"/C/work/CREG/testbed_clean_new_steve.py",
+				"/C/Users/bosjiang/Documents/MyJabberFiles/xiangpxu@cisco.com/comments.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/elasticsearch_reindex.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/ScriptPoolService.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/scriptPool.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/ScriptSelect.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/testcase.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.html",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.scss",
+				"/C/work/labcloud/lab-resource-manager/service/dev_free_info.py",
+				"/C/work/labcloud/lab-resource-manager/service/dev_free_info_api.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/TestcaseDbService.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/worker/JobRunService.py",
+				"/C/work/labcloud/service/master/demoService.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.routing.ts",
+				"/C/work/labcloud/service/master/config.yml",
+				"/C/work/AI/input_analyze.py",
+				"/C/work/AI/data_helpers.py",
+				"/C/work/AI/consumer.py"
+			],
+			"find":
+			{
+				"height": 91.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"re.",
+					"data_path",
+					"re",
+					"self.top_list",
+					"KAFKA_SERVER",
+					"response",
+					"respones",
+					"user_dict",
+					"Can't record data in DB",
+					"service_analyze",
+					"CASSANDRA",
+					"respones",
+					"logger",
+					"logging",
+					"LAB_CLOUD_CTRL",
+					"yaml_file",
+					"YAML_TMPL",
+					"cbr_value",
+					"self.content",
+					"TopoGenerater",
+					"topo_dict",
+					"temp_dict",
+					"tem_dict",
+					"split_uu",
+					"topo_content_generater",
+					"split_uuid",
+					"job_content_generate",
+					"execution_state",
+					"device_init",
+					"request.json",
+					"JOBFILE_MAIN",
+					"vty",
+					"JOBFIEL_HEADER",
+					"JOBFILE_HEADER",
+					"uuid_split",
+					"JOBFILE_MAIN_P2",
+					"responesrespon",
+					"resource_table",
+					"resourcecheck",
+					":\n",
+					"“data”",
+					"resource_table",
+					"resourcecheck",
+					"lab_cloud_admin_main",
+					"all_service",
+					"query",
+					"query_filter",
+					"LabCloudQuery",
+					"onCbrImageCustomize",
+					"cbr_lable",
+					"oncBRImageCusomize",
+					"image",
+					"default_image_description",
+					"branches",
+					"Script",
+					"getTopology",
+					"rpd",
+					"waiting",
+					"can't get kernel image!",
+					"starting kernel failed log",
+					" starting kernel failed log",
+					"Wrong Image",
+					"Wrong Image Format for bootm command",
+					"It is two-SUP testbed",
+					"testbed_loader",
+					"cmts",
+					"It is two-SUP testbed",
+					"have_SUP1",
+					"is_two_SUP",
+					"reboot_clisend_ok_flag",
+					"Not in Rommon",
+					"Not in Rommon, so send reboot CLI commands in aux",
+					"The system did not response correctly within",
+					"The system did not response correctly within 15 second",
+					"vnc_get",
+					"lgModalShow",
+					"onResourceCheck",
+					"ba-card",
+					"api_service",
+					"authenticate_direct_bind",
+					"LDAP_USER_LOGIN_ATTR",
+					"full_user_search_dn",
+					"authenticate_direct_bind",
+					"LDAP_ALWAYS_SEARCH_BIND",
+					"LDAP_BIND_DIRECT_CREDENTIALS",
+					"user",
+					"this.start_time",
+					"ldap",
+					"_config",
+					"scalar",
+					"LDAPLoginForm",
+					"disableHostCheck",
+					"Basic Ex",
+					"toLocaleString",
+					"onOrderStatusquerry",
+					"DefaultModal",
+					"_selectItem",
+					"selected",
+					"request",
+					"cbr_2",
+					"resource_table",
+					"onResourceQuerry",
+					"onTimeUpdate",
+					"end_date",
+					"Start",
+					"start_date",
+					"cflow",
+					"globalVars",
+					"ng2-admin",
+					"New Visits",
+					"TcSea",
+					"TcSear",
+					"this.qddts",
+					"ts_select",
+					"this.data",
+					"print",
+					"A tool to analyze regression scripts",
+					"A tool to analyze regression scripts.",
+					"re_file",
+					"qddts",
+					"this.qddts",
+					"db_st",
+					"tc_map",
+					"cflow",
+					"qddts_analyze",
+					"data_list",
+					"ScriptEngine",
+					"org_file_list"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\work\\open_rpd\\OpenRPD"
+				},
+				{
+					"path": "C:\\work\\auto_home\\auto-home"
+				},
+				{
+					"path": "C:\\work\\auto_home\\auto_home_microservice\\auto-home-microservice"
+				},
+				{
+					"path": "C:\\work\\cfow_dump"
+				},
+				{
+					"path": "C:\\work\\labcloud\\auto-home"
+				},
+				{
+					"path": "C:\\work\\ng2-admin\\src\\app"
+				},
+				{
+					"path": "C:\\work\\labcloud"
+				},
+				{
+					"path": "C:\\work\\Go"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/work/Go/test.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 123,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										123,
+										123
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												122,
+												123
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												82,
+												83
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												122,
+												123
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												82,
+												83
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Personal_project/toolkit-python/cassandra_ralted.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2988,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2277,
+										2277
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": ".",
+											"selector": "source.go"
+										},
+										{
+											"characters": ".",
+											"selector": "source.python - string - constant.numeric"
+										}
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Personal_project/toolkit-python/kafka_related.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1495,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1367,
+										1367
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1366,
+												1367
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1363,
+												1364
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1366,
+												1367
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1363,
+												1364
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 66.0
+			},
+			"input":
+			{
+				"height": 90.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o://C:\\work\\Go":
+			{
+				"height": 724.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 306.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 460.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,2,-32000,-32000,-1,-1,1412,-2054,198,-166",
+			"project": "",
+			"replace":
+			{
+				"height": 124.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 484.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"top",
+						"top_list\tstatement"
+					],
+					[
+						"e",
+						"except"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"F",
+						"FAILED"
+					],
+					[
+						"ex",
+						"execution_status\tstatement"
+					],
+					[
+						"y",
+						"yaml_file\tstatement"
+					],
+					[
+						"con",
+						"consrv"
+					],
+					[
+						"ya",
+						"yaml_obj\tstatement"
+					],
+					[
+						"del",
+						"delattr\tfunction"
+					],
+					[
+						"yaml",
+						"yaml_obj"
+					],
+					[
+						"__",
+						"__dict__"
+					],
+					[
+						"uuid",
+						"uuid_split"
+					],
+					[
+						"cbr_",
+						"cbr_name\tstatement"
+					],
+					[
+						"to",
+						"topofile_gen\tfunction"
+					],
+					[
+						"split",
+						"split_uuid"
+					],
+					[
+						"RP",
+						"RPD_P1"
+					],
+					[
+						"RPD_",
+						"RPD_P2"
+					],
+					[
+						"topo",
+						"topofile"
+					],
+					[
+						"image",
+						"image_str"
+					],
+					[
+						"lab",
+						"lab_dev_ctrlr\tfunction"
+					],
+					[
+						"UPDATE_",
+						"UPDATED_DATA"
+					],
+					[
+						"msg",
+						"msg_dict"
+					],
+					[
+						"service",
+						"service_uuid"
+					],
+					[
+						"ms",
+						"msg_dict"
+					],
+					[
+						"true",
+						"True\tkeyword"
+					],
+					[
+						"admin",
+						"administrator\t(login.component.ts)"
+					],
+					[
+						"admi",
+						"administrator"
+					],
+					[
+						"data",
+						"data_to_front"
+					],
+					[
+						"request",
+						"request.data"
+					],
+					[
+						"j",
+						"json"
+					],
+					[
+						"cbr",
+						"cbr_type\t(smartTables.component.ts)"
+					],
+					[
+						"find_by_",
+						"find_by_id"
+					],
+					[
+						"kafk",
+						"kafka_producer"
+					],
+					[
+						"ob",
+						"object\tclass"
+					],
+					[
+						"cbr_i",
+						"cbr_image_customize\tproperty"
+					],
+					[
+						"default",
+						"default_rpd_lables_select\tproperty"
+					],
+					[
+						"rpd_lab",
+						"rpd_lables_select\tproperty"
+					],
+					[
+						"cbr_lab",
+						"cbr_lables_select\tproperty"
+					],
+					[
+						"class",
+						"classmethod\tclass"
+					],
+					[
+						"clou",
+						"cloudadmin.service\t(cloudadmin.component.ts)"
+					],
+					[
+						"CloudAdmin",
+						"CloudAdminService\t(cloudadmin.component.ts)"
+					],
+					[
+						"locale",
+						"localStorage\t(login.component.ts)"
+					],
+					[
+						"com",
+						"custom-editor.component\tscript"
+					],
+					[
+						"tgn_",
+						"tgn_port_type"
+					],
+					[
+						"tgn",
+						"tgn_type\tproperty"
+					],
+					[
+						"start",
+						"start_time\tproperty"
+					],
+					[
+						"user",
+						"user_info\t(__init__.py)"
+					],
+					[
+						"u",
+						"user_auth\t(main.py)"
+					],
+					[
+						"edit",
+						"editor\t(smartTables.component.ts)"
+					],
+					[
+						"chart",
+						"chart.description_1"
+					],
+					[
+						"modem_",
+						"modem_total"
+					],
+					[
+						"rpd_",
+						"rpd_total"
+					],
+					[
+						"cbr_3_",
+						"cbr_3_total"
+					],
+					[
+						"row",
+						"rowData"
+					],
+					[
+						"tb",
+						"tb_release\t(api.py)"
+					],
+					[
+						"Flas",
+						"False"
+					],
+					[
+						"get",
+						"getDatafromServer\tmethod"
+					],
+					[
+						"end",
+						"endTime\t(smartTables.component.ts)"
+					],
+					[
+						"bo",
+						"boolean\t(app.component.ts)"
+					],
+					[
+						"Re",
+						"Reserve\t(inputs.html)"
+					],
+					[
+						"resource",
+						"resource_table"
+					],
+					[
+						"cBr_",
+						"cbr_template_1\t(inputs.component.ts)"
+					],
+					[
+						"resource_table",
+						"resource_table_readable"
+					],
+					[
+						"start_time",
+						"start_time_show\tproperty"
+					],
+					[
+						"d",
+						"default_time_load\tmethod"
+					],
+					[
+						"end_time",
+						"end_time_selective"
+					],
+					[
+						"end_hour",
+						"end_hour_selective\tproperty"
+					],
+					[
+						"get_",
+						"get_date_time_relate_conf"
+					],
+					[
+						"date_time_",
+						"date_time_now"
+					],
+					[
+						"date",
+						"date_time_display"
+					],
+					[
+						"getD",
+						"getDay\tmethod"
+					],
+					[
+						"end_h",
+						"end_hour_selective\tproperty"
+					],
+					[
+						"start_hour",
+						"start_hour_selective\tproperty"
+					],
+					[
+						"end_time_to",
+						"end_time_to_display\tproperty"
+					],
+					[
+						"getm",
+						"getMonth\tmethod"
+					],
+					[
+						"my",
+						"myhour"
+					],
+					[
+						"rpd",
+						"rpd_num\tproperty"
+					],
+					[
+						"submit",
+						"submit_request"
+					],
+					[
+						"im",
+						"images\t(api.py)"
+					],
+					[
+						"form",
+						"form-group\t(standardInputs.html)"
+					],
+					[
+						"se",
+						"selectedSupCard\tproperty"
+					],
+					[
+						"Tb",
+						"TbEstablishComponent\t(tb.module.ts)"
+					],
+					[
+						"tb_",
+						"tb_establish\t(api.py)"
+					],
+					[
+						"script",
+						"scriptselect\t(submit.routing.ts)"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"sele",
+						"ts_select\tproperty"
+					],
+					[
+						"ts",
+						"ts_name"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"not",
+						"not_in_db"
+					],
+					[
+						"key",
+						"keys"
+					],
+					[
+						"fucn",
+						"func_list"
+					],
+					[
+						"func_",
+						"func_list"
+					],
+					[
+						"function",
+						"function_list"
+					],
+					[
+						"tc_ma",
+						"tc_map_origin\tproperty"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"has",
+						"hasOwnProperty"
+					],
+					[
+						"fucntion",
+						"function_list"
+					],
+					[
+						"run",
+						"runtime"
+					],
+					[
+						"task",
+						"taskid"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "// Place your settings in the file \"Packages/User/Preferences.sublime-settings\",\n// which overrides the settings in here.\n//\n// Settings may also be placed in syntax-specific setting files, for\n// example, in Packages/User/Python.sublime-settings for python files.\n{\n    // Sets the colors used within the text area\n    \"color_scheme\": \"Packages/Color Scheme - Default/Monokai.tmTheme\",\n\n    // Note that the font_face and font_size are overridden in the platform\n    // specific settings file, for example, \"Preferences (Linux).sublime-settings\".\n    // Because of this, setting them here will have no effect: you must set them\n    // in your User File Preferences.\n    \"font_face\": \"\",\n    \"font_size\": 10,\n\n    // Valid options are \"no_bold\", \"no_italic\", \"no_antialias\", \"gray_antialias\",\n    // \"subpixel_antialias\", \"no_round\" (OS X only), \"gdi\" (Windows only) and\n    // \"directwrite\" (Windows only)\n    \"font_options\": [],\n    // Font options for theme text. Valid options are: \"no_antialias\",\n    // \"gray_antialias\", \"gdi\" (Windows only) and \"directwrite\" (Windows only)\n    \"theme_font_options\": [],\n\n    // Characters that are considered to separate words\n    \"word_separators\": \"./\\\\()\\\"'-:,.;<>~!@#$%^&*|+=[]{}`~?\",\n\n    // Set to false to prevent line numbers being drawn in the gutter\n    \"line_numbers\": true,\n\n    // Set to false to hide the gutter altogether\n    \"gutter\": true,\n\n    // Spacing between the gutter and the text\n    \"margin\": 4,\n\n    // Fold buttons are the triangles shown in the gutter to fold regions of text\n    \"fold_buttons\": true,\n\n    // Hides the fold buttons unless the mouse is over the gutter\n    \"fade_fold_buttons\": true,\n\n    // Columns in which to display vertical rulers\n    \"rulers\": [],\n\n    // Set to true to turn spell checking on by default\n    \"spell_check\": false,\n\n    // The number of spaces a tab is considered equal to\n    \"tab_size\": 4,\n\n    // Set to true to insert spaces when tab is pressed\n    \"translate_tabs_to_spaces\": false,\n\n    // If translate_tabs_to_spaces is true, use_tab_stops will make tab and\n    // backspace insert/delete up to the next tabstop\n    \"use_tab_stops\": true,\n\n    // Set to false to disable detection of tabs vs. spaces on load\n    \"detect_indentation\": true,\n\n    // Calculates indentation automatically when pressing enter\n    \"auto_indent\": true,\n\n    // Makes auto indent a little smarter, e.g., by indenting the next line\n    // after an if statement in C. Requires auto_indent to be enabled.\n    \"smart_indent\": true,\n\n    // Adds whitespace up to the first open bracket when indenting. Requires\n    // auto_indent to be enabled.\n    \"indent_to_bracket\": false,\n\n    // Trims white space added by auto_indent when moving the caret off the\n    // line.\n    \"trim_automatic_white_space\": true,\n\n    // Disables horizontal scrolling if enabled.\n    // May be set to true, false, or \"auto\", where it will be disabled for\n    // source code, and otherwise enabled.\n    \"word_wrap\": \"auto\",\n\n    // Set to a value other than 0 to force wrapping at that column rather than the\n    // window width\n    \"wrap_width\": 0,\n\n    // Set to false to prevent word wrapped lines from being indented to the same\n    // level\n    \"indent_subsequent_lines\": true,\n\n    // Draws text centered in the window rather than left aligned\n    \"draw_centered\": false,\n\n    // Controls auto pairing of quotes, brackets etc\n    \"auto_match_enabled\": true,\n\n    // Word list to use for spell checking\n    \"dictionary\": \"Packages/Language - English/en_US.dic\",\n\n    // Sets which scopes are checked for spelling errors\n    \"spelling_selector\": \"markup.raw, source string.quoted - punctuation - meta.preprocessor.include, source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)\",\n\n    // Set to true to draw a border around the visible rectangle on the minimap.\n    // The color of the border will be determined by the \"minimapBorder\" key in\n    // the color scheme\n    \"draw_minimap_border\": false,\n\n    // Always visualise the viewport on the minimap, as opposed to only\n    // showing it on mouse over\n    \"always_show_minimap_viewport\": false,\n\n    // If enabled, will highlight any line with a caret\n    \"highlight_line\": false,\n\n    // Valid values are \"smooth\", \"phase\", \"blink\" and \"solid\".\n    \"caret_style\": \"smooth\",\n\n    // These settings control the size of the caret\n    \"caret_extra_top\": 2,\n    \"caret_extra_bottom\": 2,\n    \"caret_extra_width\": 1,\n\n    // Set to false to disable underlining the brackets surrounding the caret\n    \"match_brackets\": true,\n\n    // Set to false if you'd rather only highlight the brackets when the caret is\n    // next to one\n    \"match_brackets_content\": true,\n\n    // Set to false to not highlight square brackets. This only takes effect if\n    // match_brackets is true\n    \"match_brackets_square\": true,\n\n    // Set to false to not highlight curly brackets. This only takes effect if\n    // match_brackets is true\n    \"match_brackets_braces\": true,\n\n    // Set to false to not highlight angle brackets. This only takes effect if\n    // match_brackets is true\n    \"match_brackets_angle\": false,\n\n    // Enable visualization of the matching tag in HTML and XML\n    \"match_tags\": true,\n\n    // Highlights other occurrences of the currently selected text\n    \"match_selection\": true,\n\n    // Additional spacing at the top of each line, in pixels\n    \"line_padding_top\": 0,\n\n    // Additional spacing at the bottom of each line, in pixels\n    \"line_padding_bottom\": 0,\n\n    // Set to false to disable scrolling past the end of the buffer.\n    // On OS X, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"scroll_past_end\": true,\n\n    // This controls what happens when pressing up or down when on the first\n    // or last line.\n    // On OS X, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"move_to_limit_on_up_down\": false,\n\n    // Set to \"none\" to turn off drawing white space, \"selection\" to draw only the\n    // white space within the selection, and \"all\" to draw all white space\n    \"draw_white_space\": \"selection\",\n\n    // Set to false to turn off the indentation guides.\n    // The color and width of the indent guides may be customized by editing\n    // the corresponding .tmTheme file, and specifying the colors \"guide\",\n    // \"activeGuide\" and \"stackGuide\"\n    \"draw_indent_guides\": true,\n\n    // Controls how the indent guides are drawn, valid options are\n    // \"draw_normal\" and \"draw_active\". draw_active will draw the indent\n    // guides containing the caret in a different color.\n    \"indent_guide_options\": [\"draw_normal\"],\n\n    // Set to true to removing trailing white space on save\n    \"trim_trailing_white_space_on_save\": false,\n\n    // Set to true to ensure the last line of the file ends in a newline\n    // character when saving\n    \"ensure_newline_at_eof_on_save\": false,\n\n    // Set to true to automatically save files when switching to a different file\n    // or application\n    \"save_on_focus_lost\": false,\n\n    // Save via writing to an alternate file, and then renaming it over the\n    // original file.\n    \"atomic_save\": false,\n\n    // The encoding to use when the encoding can't be determined automatically.\n    // ASCII, UTF-8 and UTF-16 encodings will be automatically detected.\n    \"fallback_encoding\": \"Western (Windows 1252)\",\n\n    // Encoding used when saving new files, and files opened with an undefined\n    // encoding (e.g., plain ascii files). If a file is opened with a specific\n    // encoding (either detected or given explicitly), this setting will be\n    // ignored, and the file will be saved with the encoding it was opened\n    // with.\n    \"default_encoding\": \"UTF-8\",\n\n    // Files containing null bytes are opened as hexadecimal by default\n    \"enable_hexadecimal_encoding\": true,\n\n    // Determines what character(s) are used to terminate each line in new files.\n    // Valid values are 'system' (whatever the OS uses), 'windows' (CRLF) and\n    // 'unix' (LF only).\n    \"default_line_ending\": \"system\",\n\n    // When enabled, hovering over a word will show a popup listing all\n    // possible locations for the definition symbol. Requires index_files.\n    \"show_definitions\": true,\n\n    // When enabled, pressing tab will insert the best matching completion.\n    // When disabled, tab will only trigger snippets or insert a tab.\n    // Shift+tab can be used to insert an explicit tab when tab_completion is\n    // enabled.\n    \"tab_completion\": true,\n\n    // Enable auto complete to be triggered automatically when typing.\n    \"auto_complete\": true,\n\n    // The maximum file size where auto complete will be automatically triggered.\n    \"auto_complete_size_limit\": 4194304,\n\n    // The delay, in ms, before the auto complete window is shown after typing\n    \"auto_complete_delay\": 50,\n\n    // Controls what scopes auto complete will be triggered in\n    \"auto_complete_selector\": \"meta.tag - punctuation.definition.tag.begin, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc\",\n\n    // Additional situations to trigger auto complete\n    \"auto_complete_triggers\": [ {\"selector\": \"text.html\", \"characters\": \"<\"} ],\n\n    // By default, auto complete will commit the current completion on enter.\n    // This setting can be used to make it complete on tab instead.\n    // Completing on tab is generally a superior option, as it removes\n    // ambiguity between committing the completion and inserting a newline.\n    \"auto_complete_commit_on_tab\": false,\n\n    // Controls if auto complete is shown when snippet fields are active.\n    // Only relevant if auto_complete_commit_on_tab is true.\n    \"auto_complete_with_fields\": false,\n\n    // Controls what happens when pressing the up key while the first item in\n    // the auto complete window is selected: if false, the window is hidden,\n    // otherwise the last item in the window is selected. Likewise for the\n    // down key when the last item is selected.\n    \"auto_complete_cycle\": false,\n\n    // Automatically close HTML and XML tags when </ is entered.\n    \"auto_close_tags\": true,\n\n    // By default, shift+tab will only unindent if the selection spans\n    // multiple lines. When pressing shift+tab at other times, it'll insert a\n    // tab character - this allows tabs to be inserted when tab_completion is\n    // enabled. Set this to true to make shift+tab always unindent, instead of\n    // inserting tabs.\n    \"shift_tab_unindent\": false,\n\n    // If true, the copy and cut commands will operate on the current line\n    // when the selection is empty, rather than doing nothing.\n    \"copy_with_empty_selection\": true,\n\n    // If true, the selected text will be copied into the find panel when it's\n    // shown.\n    // On OS X, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"find_selected_text\": true,\n\n    // When auto_find_in_selection is enabled, the \"Find in Selection\" flag\n    // will be enabled automatically when multiple lines of text are selected\n    \"auto_find_in_selection\": false,\n\n    // When drag_text is enabled, clicking on selected text will begin a\n    // drag-drop operation. This is not currently implemented under Linux.\n    \"drag_text\": true,\n\n    //\n    // User Interface Settings\n    //\n\n    // The theme controls the look of Sublime Text's UI (buttons, tabs, scroll bars, etc)\n    \"theme\": \"Default.sublime-theme\",\n\n    // Set to 0 to disable smooth scrolling. Set to a value between 0 and 1 to\n    // scroll slower, or set to larger than 1 to scroll faster\n    \"scroll_speed\": 1.0,\n\n    // Controls side bar animation when expanding or collapsing folders\n    \"tree_animation_enabled\": true,\n\n    // Controls animation throughout the application\n    \"animation_enabled\": true,\n\n    // Makes tabs with modified files more visible\n    \"highlight_modified_tabs\": false,\n\n    \"show_tab_close_buttons\": true,\n\n    // Show folders in the side bar in bold\n    \"bold_folder_labels\": false,\n\n    // Draw divider lines between sections of the UI when using the Adaptive theme\n    \"adaptive_dividers\": true,\n\n    // OS X only. Valid values are true, false, and \"auto\". Auto will enable\n    // the setting when running on a screen 2560 pixels or wider (i.e., a\n    // Retina display). When this setting is enabled, OpenGL is used to\n    // accelerate drawing. Sublime Text must be restarted for changes to take\n    // effect.\n    \"gpu_window_buffer\": \"auto\",\n\n    // Valid values are \"system\", \"enabled\" and \"disabled\"\n    \"overlay_scroll_bars\": \"system\",\n\n    // Allows tabs to scroll left and right, instead of simply shrinking\n    \"enable_tab_scrolling\": true,\n\n    // Display file encoding in the status bar\n    \"show_encoding\": false,\n\n    // Display line endings in the status bar\n    \"show_line_endings\": false,\n\n    //\n    // Application Behavior Settings\n    //\n\n    // Exiting the application with hot_exit enabled will cause it to close\n    // immediately without prompting. Unsaved modifications and open files will\n    // be preserved and restored when next starting.\n    //\n    // Closing a window with an associated project will also close the window\n    // without prompting, preserving unsaved changes in the workspace file\n    // alongside the project.\n    \"hot_exit\": true,\n\n    // remember_full_screen will allow Sublime Text to start in full screen\n    // mode if it was exited in full screen mode. When set to false, Sublime\n    // Text will never start in full screen mode.\n    \"remember_full_screen\": false,\n\n    // OS X only. If the user's default shell should be invoked to obtain the\n    // user's customized environment variables. May be a boolean, or a string\n    // of the path the shell to invoke. Sublime Text must be restarted for this\n    // to take effect.\n    \"shell_environment\": true,\n\n    // Always prompt before reloading a file, even if the file hasn't been\n    // modified. The default behavior is to automatically reload a file if it\n    // hasn't been edited. If a file has unsaved changes, a prompt will always\n    // be shown.\n    \"always_prompt_for_file_reload\": false,\n\n    // OS X only: When files are opened from finder, or by dragging onto the\n    // dock icon, this controls if a new window is created or not.\n    \"open_files_in_new_window\": true,\n\n    // OS X only: This controls if an empty window is created at startup or not.\n    \"create_window_at_startup\": true,\n\n    // OS X only: Show recent files on the Touch Bar.\n    \"show_navigation_bar\": true,\n\n    // Set to true to close windows as soon as the last file is closed, unless\n    // there's a folder open within the window.\n    // On OS X, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"close_windows_when_empty\": false,\n\n    // Show the full path to files in the title bar.\n    // On OS X, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"show_full_path\": true,\n\n    // Shows the Build Results panel when building. If set to false, the Build\n    // Results can be shown via the Tools/Build Results menu.\n    \"show_panel_on_build\": true,\n\n    // Shows build errors just under the line on which they occur.\n    \"show_errors_inline\": true,\n\n    // Preview file contents when clicking on a file in the side bar. Double\n    // clicking or editing the preview will open the file and assign it a tab.\n    \"preview_on_click\": true,\n\n    // folder_exclude_patterns and file_exclude_patterns control which files\n    // are listed in folders on the side bar. These can also be set on a per-\n    // project basis.\n    \"folder_exclude_patterns\": [\".svn\", \".git\", \".hg\", \"CVS\"],\n    \"file_exclude_patterns\": [\"*.pyc\", \"*.pyo\", \"*.exe\", \"*.dll\", \"*.obj\",\"*.o\", \"*.a\", \"*.lib\", \"*.so\", \"*.dylib\", \"*.ncb\", \"*.sdf\", \"*.suo\", \"*.pdb\", \"*.idb\", \".DS_Store\", \"*.class\", \"*.psd\", \"*.db\", \"*.sublime-workspace\"],\n    // These files will still show up in the side bar, but won't be included in\n    // Goto Anything or Find in Files\n    \"binary_file_patterns\": [\"*.jpg\", \"*.jpeg\", \"*.png\", \"*.gif\", \"*.ttf\", \"*.tga\", \"*.dds\", \"*.ico\", \"*.eot\", \"*.pdf\", \"*.swf\", \"*.jar\", \"*.zip\"],\n\n    // File indexing parses all files in the side bar, and builds an index of\n    // their symbols. This is required for Goto Definition to work.\n    \"index_files\": true,\n\n    // Set the number threads to use for indexing. A value of 0 will make\n    // Sublime Text guess based on the number of cores. Use the index_files\n    // setting to disable all workers.\n    \"index_workers\": 0,\n\n    // index_exclude_patterns indicate which files won't be indexed.\n    \"index_exclude_patterns\": [\"*.log\"],\n\n    // List any packages to ignore here. When removing entries from this list,\n    // a restart may be required if the package contains plugins.\n    \"ignored_packages\": [\"Vintage\"]\n}\n",
+					"file": "/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 17206,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 198,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/GoSublime/GoSublime.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Go.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Go.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 267.0,
+				"last_filter": "install pa",
+				"selected_items":
+				[
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"PackageR",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"package Control:",
+						"Package Control: Remove Package"
+					],
+					[
+						" install th",
+						"Colorsublime: Install Theme"
+					],
+					[
+						" install package",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Add Channel"
+					]
+				],
+				"width": 952.0
+			},
+			"console":
+			{
+				"height": 327.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/work/labcloud/add-on/cassandra_modoles.py",
+				"/C/work/labcloud/add-on/rank_system.py",
+				"/C/work/labcloud/lab-device-controller/lab_device_ctrlr.py",
+				"/C/work/AI/kafka_log.py",
+				"/C/work/test/test.py",
+				"/C/work/useful_script/initojson.py",
+				"/C/work/ATP/RPHY-ATP/ATPCases.py",
+				"/C/work/labcloud/add-on/rank_service.py",
+				"/C/work/AI/producer.py",
+				"/C/work/labcloud/api-gateway/app/main.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/login/login.component.ts",
+				"/C/work/labcloud/user-management/user_auth.py",
+				"/C/work/labcloud/user-management/user_service.py",
+				"/C/work/labcloud/api-gateway/app/comments.py",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/GoSublime/9o.md",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/User/Go.sublime-build",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+				"/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/C/work/Go/test.go",
+				"/C/work/labcloud/api-gateway/app/yaml_file/cbr_rank.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/mainService.ts",
+				"/C/work/labcloud/add-on/config.yml",
+				"/C/work/labcloud/api-gateway/app/yaml_file/user_rank.yml",
+				"/C/work/labcloud/add-on/README.md",
+				"/C/work/labcloud/add-on/Dockerfile",
+				"/C/work/labcloud/service_manager/webui_service.py",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_main.py",
+				"/C/work/labcloud/service_manager/serv_mgr_lib/serv_mgr_handler.py",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_query.py",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_models.py",
+				"/C/work/labcloud/user-management/config.yml",
+				"/C/work/labcloud/user-management/README.md",
+				"/C/work/labcloud/add-on/run.sh",
+				"/C/work/labcloud/add-on/.gitignore",
+				"/C/work/labcloud/web/Web-UI/src/app/global.var.ts",
+				"/C/work/labcloud/lab-cloud-admin/lab_cloud_admin_service.py",
+				"/C/work/labcloud/api-gateway/README.md",
+				"/C/work/labcloud/api-gateway/.gitignore",
+				"/C/work/labcloud/user-management/run.sh",
+				"/C/work/labcloud/lab-device-controller/yaml_file/template.yaml",
+				"/C/work/test/ymal-generate.py",
+				"/C/work/labcloud/gateway/gateway/app/main.py",
+				"/C/work/labcloud/lab-device-controller/.gitignore",
+				"/C/work/labcloud/lab-device-controller/README.md",
+				"/C/work/labcloud/lab-device-controller/dev_ctrlr_producer.py",
+				"/C/work/labcloud/lab-device-controller/Dockerfile",
+				"/C/work/labcloud/lab-device-controller/tb_clean_script/testbed_clean_p1.py",
+				"/C/Users/bosjiang/AppData/Local/Temp/scp09683/root/lab-device-controller/Dockerfile",
+				"/C/work/labcloud/web/Web-UI/Dockerfile",
+				"/C/work/labcloud/user-management/Dockerfile",
+				"/C/work/labcloud/lab-device-controller/logging_config.ini",
+				"/C/work/labcloud/lab-device-controller/common_operation.py",
+				"/C/work/labcloud/lab-device-controller/yaml_generate.py",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/user_auth.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/request-modal/request-modal.component.html",
+				"/C/work/labcloud/gateway/gateway/app/comments.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/pieChart/pieChart.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/request-modal/request-modal.component.ts",
+				"/C/work/labcloud/lab-device-controller/cbr_rpd_image_upgrade.py",
+				"/C/work/labcloud/user-auth/run.sh",
+				"/C/work/labcloud/user-auth/user_auth.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/pages.menu.ts",
+				"/C/work/labcloud/user-auth/user_service.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/login/login.module.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/global.state.ts",
+				"/C/work/labcloud/gateway/gateway/app/user_auth.py",
+				"/C/work/labcloud/user-auth/.gitignore",
+				"/C/work/labcloud/user-auth/config.yml",
+				"/C/work/labcloud/user-auth/user_auth_service.py",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/tb_release.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/cloud_admin.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/submit_comments.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/kafka_log.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/order_status_query.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/image_query.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/resource_query.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/submit_request.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/image_upgrade.yml",
+				"/C/work/labcloud/gateway/gateway/app/yaml_file/update_request.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/pieChart/pieChart.service.ts",
+				"/C/work/labcloud/gateway/gateway/app/submit_request.yml",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/reservedTable/smartTables.service.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/reservedTable/smartTables.component.ts",
+				"/C/work/labcloud/gateway/gateway/Dockerfile",
+				"/C/work/labcloud/bug_system/gitlab_api.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/dashboard.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/update-modal/update-modal.component.ts",
+				"/C/work/ng2-admin/src/app/pages/forms/components/inputs/inputs.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/pieChart/pieChart.html",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/components/inputs/inputs.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/components/inputs/inputs.html",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/dashboard.html",
+				"/C/work/test/ticket.py",
+				"/C/work/labcloud/lab_cloud_admin/labCloudAdminAction.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/dashboard/dashboard.module.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/errorpage/errorpage.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/forms.component.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/forms/forms.module.ts",
+				"/C/work/labcloud/lab_cloud_admin/labServMgrQuery.py",
+				"/C/work/labcloud/lab_cloud_admin/labCloudAdminMain.py",
+				"/C/work/labcloud/lab_cloud_admin/labServMgrModels.py",
+				"/C/work/labcloud/lab_cloud_admin/labCloudAdminService.py",
+				"/C/work/labcloud/gateway/gateway/app/uwsgi.ini",
+				"/C/work/labcloud/lab_cloud_admin/lab_cloud_admin_service.sh",
+				"/C/Users/bosjiang/Documents/MyJabberFiles/zhiren@cisco.com/copy_creg_green_label_120.py",
+				"/C/work/Quality Index Web/Official/old/jsonUpdate.py",
+				"/C/work/CREG/testbed_clean_new_jbs.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.service.ts",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.component.ts",
+				"/C/work/CREG/testbed_clean_new_steve.py",
+				"/C/Users/bosjiang/Documents/MyJabberFiles/xiangpxu@cisco.com/comments.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/elasticsearch_reindex.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/ScriptPoolService.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/scriptPool.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/ScriptSelect.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/testcase.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.html",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.scss",
+				"/C/work/labcloud/lab-resource-manager/service/dev_free_info.py",
+				"/C/work/labcloud/lab-resource-manager/service/dev_free_info_api.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/master/TestcaseDbService.py",
+				"/C/work/auto_home/auto_home_microservice/auto-home-microservice/service/worker/JobRunService.py",
+				"/C/work/labcloud/service/master/demoService.py",
+				"/C/work/labcloud/web/Web-UI/src/app/pages/cloudadmin/cloudadmin.routing.ts",
+				"/C/work/labcloud/service/master/config.yml",
+				"/C/work/AI/input_analyze.py",
+				"/C/work/AI/data_helpers.py",
+				"/C/work/AI/consumer.py"
+			],
+			"find":
+			{
+				"height": 91.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17206,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17206,
+										17206
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"edit_settings_other_view_id": 77,
+									"edit_settings_view": "base",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/C/Users/bosjiang/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 198,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": 77,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												196,
+												197
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"edit_settings_other_view_id": 76,
+									"edit_settings_view": "user",
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 66.0
+			},
+			"input":
+			{
+				"height": 90.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o://C:\\work\\Go":
+			{
+				"height": 724.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 306.0
+			},
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 460.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 124.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,1440,294,226,2182",
+			"project": "",
+			"replace":
+			{
+				"height": 124.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 484.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 37,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/work/seaflow/db_import.sublime-workspace"
+		]
+	}
+}
